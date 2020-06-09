@@ -5,12 +5,6 @@ Site de busca e cadastro de pontos de coleta de recicláveis, desenvolvido junto
 
 # ![Ecoleta](docs/icones/logo.svg)
 
-<img width="30" src="docs/icones/lampadas.svg">
-<img width="30" src="docs/icones/baterias.svg">
-<img width="30" src="docs/icones/papeis-papelao.svg">
-<img width="30" src="docs/icones/eletronicos.svg">
-<img width="30" src="docs/icones/organicos.svg">
-<img width="30" src="docs/icones/oleo.svg">
 
 **Ecoleta é uma aplicação que ajuda a encontrar pontos de coleta de lixo reciclável no Brasil.**
 
